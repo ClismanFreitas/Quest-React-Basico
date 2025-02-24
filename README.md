@@ -1,8 +1,9 @@
-# React + Vite
+# Desafio react base
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Objetivo:
 
-Currently, two official plugins are available:
+### Utilizar e testar meus conhecimentos de react.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## O desafio:
+
+### Fazer um componente renderizar na tela um parágrafo colorido e com todas as letras maiúsculas usando JS e criar um componente Button com um evento de clique que apresente um alerta informando a prop label do botão que foi clicado, com a seguinte mensagem: "A label desse botão é (label do botão)".
